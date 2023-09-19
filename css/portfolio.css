@@ -1,9 +1,11 @@
 #foot{
-    
-    position: absolute;
-    bottom: 2%;
-    
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
 }
+
+
 .profile-pic{
     width: 200px; /* Set your desired width */
     height: 200px; /* Set your desired height */
