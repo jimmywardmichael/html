@@ -1,0 +1,19 @@
+#foot{
+    
+    position: absolute;
+    bottom: 2%;
+    
+}
+.profile-pic{
+    width: 200px; /* Set your desired width */
+    height: 200px; /* Set your desired height */
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 100px;
+    margin-left: 40%;
+}
+.intro{
+    margin-top: 20px;
+    margin-left: 25%;
+    width: 50%;
+}
